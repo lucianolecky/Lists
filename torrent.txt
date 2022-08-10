@@ -56,6 +56,7 @@
 0.0.0.0 animeindex.net
 0.0.0.0 animelab.com
 0.0.0.0 animeplanetnet.edwardk.info
+0.0.0.0 bittorrent.com
 0.0.0.0 animetorrents.com
 0.0.0.0 animetsuki.ath.cx
 0.0.0.0 animeu.edwardk.info
